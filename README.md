@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone! My name is Noah and I'm an aspiring programmer. 
+My name is Noah and I'm an aspiring programmer. 
 
 My goal is to either become a web developer or a game developer. Unfortantley, I am still a noob and am still trying to get the hang of github, but I'm hoping to use this as a way of showing off my talents and projects.
 
